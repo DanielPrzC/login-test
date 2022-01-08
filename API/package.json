@@ -1,7 +1,7 @@
 {
   "name": "login-test",
   "version": "1.0.0",
-  "description": "Asimple login app made with react.js and node.js",
+  "description": "A simple login app made with react.js and node.js",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -9,16 +9,16 @@
   "author": "Daniel Pérez & Imanol López",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^5.0.1",
-    "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.2",
-    "gridfs-stream": "^1.1.1",
-    "joi": "^17.5.0",
-    "joi-password-complexity": "^5.1.0",
+    "bcrypt": "5.0.1",
+    "cors": "2.8.5",
+    "dotenv": "10.0.0",
+    "express": "4.17.2",
+    "gridfs-stream": "1.1.1",
+    "joi": "17.5.0",
+    "joi-password-complexity": "5.1.0",
     "mongoose": "5.13.7",
-    "multer": "^1.4.4",
-    "multer-gridfs-storage": "^5.0.2",
-    "nodemon": "^2.0.15"
+    "multer": "1.4.4",
+    "multer-gridfs-storage": "5.0.2",
+    "nodemon": "2.0.15"
   }
 }
