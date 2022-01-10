@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Daniel Pérez & Imanol López",
+  "author": "Daniel Pérez Catejón",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "5.0.1",
